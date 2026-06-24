@@ -2,15 +2,15 @@
 
 ## About the Project
 
-TinDog is a responsive landing page for a fictional dog dating app.
+TinDog is a Udemy practice project for building a responsive landing page using Bootstrap and custom CSS.
 
-The webpage includes a hero section, feature highlights, a testimonial section, press logos, pricing cards, and a footer. The design uses Bootstrap components and custom CSS to create a clean, modern layout.
+The webpage is for a fictional dog dating app. It includes a title section, feature section, testimonial section, press logos, pricing cards, and a footer.
 
 ## Live Website
 
 View the published webpage here:
 
-[Live Demo](https://dorraboussetta.github.io/REPOSITORY-NAME/)
+[Live Demo](https://dorraboussetta.github.io/tindog-project/)
 
 
 ## Technologies Used
